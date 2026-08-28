@@ -27,7 +27,6 @@ PHP & Laravel developer who ships things after dark, fueled by coffee ☕ and da
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=love99067333&show_icons=true&theme=tokyonight&hide_border=true" alt="Ryan's GitHub stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=love99067333&theme=tokyonight&hide_border=true" alt="Ryan's GitHub streak" height="165" />
 </p>
 
