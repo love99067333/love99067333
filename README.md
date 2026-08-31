@@ -24,12 +24,6 @@ PHP & Laravel developer who ships things after dark, fueled by coffee ☕ and da
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=love99067333&theme=tokyonight&hide_border=true" alt="Ryan's GitHub streak" height="165" />
-</p>
-
 ## 🔗 Links
 
 - ✍️ [Blog](https://ryan-ops.com)
