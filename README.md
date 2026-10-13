@@ -26,4 +26,4 @@ PHP & Laravel developer who ships things after dark, fueled by coffee ☕ and da
 
 ## 🔗 Links
 
-- ✍️ [Blog](https://ryan-ops.com)
+- ✍️ [Blog](https://blog.ryan-ops.com)
